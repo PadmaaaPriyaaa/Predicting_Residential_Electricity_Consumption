@@ -12,17 +12,16 @@ Existing System:
 
   Existing systems for forecasting electricity consumption use various methods, including hybrid models combining adaptive wavelet neural networks with ARIMA-GARCH, and short-term prediction techniques for next-day consumption. Random forest models and ensemble methods have been applied to improve forecasting accuracy. Some systems focus on dataset selection and comparison of demand models to refine predictions. Additionally, persistence forecast effects are analyzed, and machine learning techniques are often more accurate than traditional methods, especially for week-ahead hourly electricity price predictions.
 
-Propsosed System:
+Proposed System:
 
  The proposed system aims to improve residential electricity consumption forecasting using advanced machine learning techniques. It combines Convolutional Neural Networks (CNN), Bidirectional Long Short-Term Memory (BiLSTM), and Self-Attention (SA) in the CNN-BiLSTM-SA model for accurate predictions. An extended version with Gated Recurrent Units (BIGRU) is introduced to optimize performance. The system uses the UCI Electricity Consumption dataset and a Maximal Information Coefficient (MIC) feature selection algorithm. By comparing these models with existing methods like SVM and Linear Regression, the system aims to showcase superior forecasting accuracy.
 
-EXTENSION:
-
- We enhanced our proposed system by integrating Gated Recurrent Units (GRU) to optimize performance while maintaining accuracy in electricity consumption forecasting. This extension effectively addresses the limitations of Bidirectional Long Short-Term Memory (BiLSTM) models, particularly in terms of processing speed.
+Extension:
+  We enhanced our proposed system by integrating Gated Recurrent Units (GRU) to optimize performance while maintaining accuracy in electricity consumption forecasting. This extension effectively addresses the limitations of Bidirectional Long Short-Term Memory (BiLSTM) models, particularly in terms of processing speed.
 
 System Architecture:
 
- This system architecture represents a machine learning workflow for predicting residential electricity consumption. It follows a structured approach:
+  This system architecture represents a machine learning workflow for predicting residential electricity consumption. It follows a structured approach:
 
 1. Dataset Collection:
 
