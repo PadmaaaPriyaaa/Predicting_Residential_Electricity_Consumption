@@ -59,27 +59,27 @@ System Architecture:
 
 HARDWARE REQUIREMENTS:
 
-•	Operating System: Windows Only
+  •	Operating System: Windows Only
 
-•	Processor: i5 and above
+  •	Processor: i5 and above
 
-•	Ram: 8 GB and above 
+  •	Ram: 8 GB and above 
 
-•	Hard Disk: 25 GB in local drive
+  •	Hard Disk: 25 GB in local drive
 
 SOFTWARE REQUIREMENTS:
 
-•	Software: Anaconda
+  •	Software: Anaconda
 
-•	Primary Language: Python
+  •	Primary Language: Python
 
-•	Frontend Framework: Flask
+  •	Frontend Framework: Flask
 
-•	Back-end Framework: Jupyter Notebook
+  •	Back-end Framework: Jupyter Notebook
 
-•	Database: Sqlite3
+  •	Database: Sqlite3
 
-•	Front-End Technologies: HTML, CSS, JavaScript and Bootstrap4
+  •	Front-End Technologies: HTML, CSS, JavaScript and Bootstrap4
 
 
 CONCLUSION:
