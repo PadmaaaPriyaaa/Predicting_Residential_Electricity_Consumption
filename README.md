@@ -53,32 +53,32 @@ System Architecture:
     Several models are trained for prediction, including existing techniques such as Support Vector Machine (SVM) and Linear Regression.  Advanced deep learning models are also introduced, such as CNN-BiLSTM-SA (a combination of Convolutional Neural Networks and Bidirectional Long Short-Term Memory with Self-Attention) and CNN-BiGRU-SA (CNN with Bidirectional Gated Recurrent Units and Self-Attention).
 
 8. Performance Evaluation:
-
+ 
     The trained models are assessed using key performance metrics like the R² Score (coefficient of determination), RMSE (Root Mean Square Error), and MAE (Mean Absolute Error).These metrics help determine how well the models predict electricity consumption.This systematic approach ensures efficient data handling, meaningful feature selection, and optimal model performance for accurate electricity consumption prediction.
 
 Hardware Requirements:
 
-  •	Operating System: Windows Only
+   •	Operating System: Windows Only
 
-  •	Processor: i5 and above
+   •	Processor: i5 and above
 
-  •	Ram: 8 GB and above 
+   •	Ram: 8 GB and above 
 
-  •	Hard Disk: 25 GB in local drive
+   •	Hard Disk: 25 GB in local drive
 
 Software Requirements:
 
-  •	Software: Anaconda
+   •	Software: Anaconda
 
-  •	Primary Language: Python
+   •	Primary Language: Python
 
-  •	Frontend Framework: Flask
+   •	Frontend Framework: Flask
 
-  •	Back-end Framework: Jupyter Notebook
+   •	Back-end Framework: Jupyter Notebook
 
-  •	Database: Sqlite3
+   •	Database: Sqlite3
 
-  •	Front-End Technologies: HTML, CSS, JavaScript and Bootstrap4
+   •	Front-End Technologies: HTML, CSS, JavaScript and Bootstrap4
 
 
 Conclusion:
